@@ -1,0 +1,360 @@
+
+
+
+
+@media (min-width:320px) and (max-width:575px) {
+    
+    .navbar-brand .img{
+        transform: skew(0);
+        padding: 0;
+    }
+    .navbar-brand .img img{
+        transform: skew(0);
+    }
+    nav ul{
+        text-align: center;
+        background: black;
+    }
+    .Banner_ovarlay .tex-area h2::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h2::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h1::before{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area h1::after{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area p::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p{
+        width: auto;
+    }
+    #about-part .title h2{
+        margin-top: 50px;
+    }
+    .about-text p{
+        width: auto;
+        margin-bottom:20px;
+    }
+    .gallery-banner .ovarlay ul{
+        flex-direction: column;
+    }
+    .gallery-banner .ovarlay ul li{
+        width: 100%;
+    }
+    #ourTeam-part .member{
+        margin-top: 100px;
+    }
+    .left-text {
+        margin-bottom: 50px;
+    }
+    .our-testi .testi-title {
+        margin-left: 88px;
+        text-align: center;
+        margin-top: 24px;
+    }
+    .our-testi p{
+        width: auto;
+        text-align: justify;
+    }
+    .our-testi .img{
+        margin-left: 110px;
+    }
+    #membership-part .box{
+        margin-top: 40px;
+    }
+    #counter-part .single_conter p {
+        font-size: 5px;
+        margin-top: 3px;
+    }
+    #counter-part .single_conter span{
+        font-size: 22px;
+    }
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+    .colorful-tab-menu-item a{
+        font-size: 12px;
+        padding: 0;
+    }
+    .item{
+        width: 100%;
+    }
+    .lst-ftr{
+        margin-top: 20px;
+    }
+}
+
+
+@media (min-width:576px) and (max-width:767px) {
+    
+    .navbar-brand .img{
+        transform: skew(0);
+        padding: 0;
+    }
+    .navbar-brand .img img{
+        transform: skew(0);
+    }
+    nav ul{
+        text-align: center;
+        background: black;
+    }
+    .Banner_ovarlay .tex-area h2::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h2::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h1::before{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area h1::after{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area p::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p{
+        width: auto;
+    }
+    #about-part .title h2{
+        margin-top: 50px;
+    }
+    .about-text p{
+        width: auto;
+        margin-bottom:20px;
+    }
+    .gallery-banner .ovarlay ul{
+        flex-direction: column;
+    }
+    .gallery-banner .ovarlay ul li{
+        width: 100%;
+    }
+    #ourTeam-part .member{
+        margin-top: 100px;
+    }
+    .left-text {
+        margin-bottom: 50px;
+    }
+    .our-testi .testi-title {
+        margin-left: 88px;
+        text-align: center;
+        margin-top: 24px;
+    }
+    .our-testi p{
+        width: auto;
+        text-align: justify;
+    }
+    .our-testi .img{
+        margin-left: 110px;
+    }
+    #membership-part .box{
+        margin-top: 40px;
+    }
+    
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+    .colorful-tab-menu-item a{
+        font-size: 12px;
+       
+    }
+    .item{
+        width: 100%;
+    }
+    .lst-ftr{
+        margin-top: 20px;
+    }
+    /* gallary part */
+    .gallery-img{
+        margin: 15px 0;
+    }
+    .gallery-banner .ovarlay ul li {
+        width: 32%;
+    }
+    .gallery-banner .ovarlay ul {
+        flex-direction: row;
+    }
+    .ftr-item3 ul li {
+        width: 23%;
+        margin-top: 10px;
+    }
+    .item {
+        width: 49%;
+        margin-top: 4px;
+    }
+    #counter-part .single_conter p {
+        font-size: 13px;
+        margin-top: -5px;
+    }
+    .colorful-tab-menu-item a {
+        font-size: 14px;
+    }
+}
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+    
+    .navbar-brand .img{
+        transform: skew(0);
+        padding: 0;
+    }
+    .navbar-brand .img img{
+        transform: skew(0);
+    }
+    nav ul{
+        text-align: center;
+        background: black;
+    }
+    .Banner_ovarlay .tex-area h2::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h2::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area h1::before{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area h1::after{
+        height: 0;
+    }
+    .Banner_ovarlay .tex-area p::before{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p::after{
+        width: 0;
+    }
+    .Banner_ovarlay .tex-area p{
+        width: auto;
+    }
+    #about-part .title h2{
+        margin-top: 50px;
+    }
+    .about-text p{
+        width: auto;
+        margin-bottom:20px;
+    }
+    .gallery-banner .ovarlay ul{
+        flex-direction: column;
+    }
+    .gallery-banner .ovarlay ul li{
+        width: 100%;
+    }
+    #ourTeam-part .member{
+        margin-top: 100px;
+    }
+    .left-text {
+        margin-bottom: 50px;
+    }
+    .our-testi .testi-title {
+        margin-left: 88px;
+        text-align: center;
+        margin-top: 24px;
+    }
+    .our-testi p{
+        width: auto;
+        text-align: justify;
+    }
+    .our-testi .img{
+        margin-left: 110px;
+    }
+    #membership-part .box{
+        margin-top: 40px;
+    }
+    
+    .colorful-tab-menu {
+        flex-direction: row;
+    }
+    .colorful-tab-menu-item a{
+        font-size: 12px;
+       
+    }
+    .item{
+        width: 100%;
+    }
+    .lst-ftr{
+        margin-top: 20px;
+    }
+    /* gallary part */
+    .gallery-img{
+        margin: 15px 0;
+    }
+    .gallery-banner .ovarlay ul li {
+        width: 32%;
+    }
+    .gallery-banner .ovarlay ul {
+        flex-direction: row;
+    }
+    .ftr-item3 ul li {
+        width: 23%;
+        margin-top: 10px;
+    }
+    .item {
+        width: 32%;
+        margin-top: 4px;
+    }
+    #counter-part .single_conter p {
+        font-size: 13px;
+        margin-top: -5px;
+    }
+    .colorful-tab-menu-item a {
+        font-size: 14px;
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    .about-text p{
+        width: auto;
+    }
+    .Banner_ovarlay .tex-area h2::after{
+        left: 21%;
+    }
+    .Banner_ovarlay .tex-area h2::before{
+        right: 21%;
+    }
+    .Banner_ovarlay .tex-area h1::after{
+        left: 21%;
+    }
+    .Banner_ovarlay .tex-area h1::before{
+        right: 21%;
+    }
+    .Banner_ovarlay .tex-area p::after{
+        left: -20px;
+        width: 110px;
+    }
+    .Banner_ovarlay .tex-area p::before{
+        right: -20px;
+        width: 85px;
+    }
+    .member .team-text p{
+        width: auto;
+    }
+    .our-testi p{
+        width: auto;
+    }
+    .ftr-item2 p{
+        width: auto;
+    }
+    .overlay .ftr-item1 ul li span{
+        left: 34%;
+    }
+    .ftr-item4 .icon i{
+        margin-right: 8px;
+    }
+    .icon {
+        margin-top: 80px;
+    }
+}
